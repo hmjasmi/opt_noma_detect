@@ -1,4 +1,5 @@
-# MATLAB BER Evaluation for Two-User NOMA Detectors
+# On the detection optimality and exact BER analysis of NOMA
+# MATLAB Code for the BER Evaluation of Two-User NOMA Detectors
 
 ## Overview
 
